@@ -4,3 +4,8 @@
 
 - 作者：wldsc
 - 创建时间：2026-10-18
+
+## Contributing
+
+- To propose a change, open an issue or submit a pull request.
+- A human merges every pull request.
