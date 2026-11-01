@@ -4,3 +4,7 @@
 
 - 作者：wldsc
 - 创建时间：2026-10-18
+
+## About
+
+This repository is a sandbox for testing the agent. It holds no production code; the commits and pull requests here exist only to exercise the agent's GitHub workflow.
